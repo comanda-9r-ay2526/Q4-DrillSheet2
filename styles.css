@@ -1,0 +1,18 @@
+body {
+    background-image: url(1236679.jpg);
+}
+
+hr {
+    height: 2px;
+    background-color: #ffffff;
+    border: none;
+}
+
+.container {
+    padding: 20px;
+    margin-top: 50px;
+    width:100%;
+    max-width: 700px;
+    border: 2px solid #ffffff;
+    background-color:#161616;
+}
